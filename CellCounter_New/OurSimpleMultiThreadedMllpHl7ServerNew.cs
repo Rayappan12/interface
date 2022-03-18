@@ -37,6 +37,8 @@ namespace CellCounter_New
         string hl7Data = string.Empty;
         public void StartOurTcpServer(string iPAddress, int port)
         {
+
+
             try
             {
                 log.Info("IP:=" + IPAddress.Parse(iPAddress) + " Port:=" + port);
