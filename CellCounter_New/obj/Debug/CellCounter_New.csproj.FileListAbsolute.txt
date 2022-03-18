@@ -1,0 +1,14 @@
+C:\Users\Praveen\source\repos\CellCounter_New\CellCounter_New\bin\Debug\CellCounter_New.exe.config
+C:\Users\Praveen\source\repos\CellCounter_New\CellCounter_New\bin\Debug\CellCounter_New.exe
+C:\Users\Praveen\source\repos\CellCounter_New\CellCounter_New\bin\Debug\CellCounter_New.pdb
+C:\Users\Praveen\source\repos\CellCounter_New\CellCounter_New\obj\Debug\CellCounter_New.csprojAssemblyReference.cache
+C:\Users\Praveen\source\repos\CellCounter_New\CellCounter_New\obj\Debug\CellCounter_New.Form1.resources
+C:\Users\Praveen\source\repos\CellCounter_New\CellCounter_New\obj\Debug\CellCounter_New.Properties.Resources.resources
+C:\Users\Praveen\source\repos\CellCounter_New\CellCounter_New\obj\Debug\CellCounter_New.csproj.GenerateResource.cache
+C:\Users\Praveen\source\repos\CellCounter_New\CellCounter_New\obj\Debug\CellCounter_New.csproj.CoreCompileInputs.cache
+C:\Users\Praveen\source\repos\CellCounter_New\CellCounter_New\obj\Debug\CellCounter_New.exe
+C:\Users\Praveen\source\repos\CellCounter_New\CellCounter_New\obj\Debug\CellCounter_New.pdb
+C:\Users\Praveen\source\repos\CellCounter_New\CellCounter_New\bin\Debug\log4net.dll
+C:\Users\Praveen\source\repos\CellCounter_New\CellCounter_New\bin\Debug\log4net.xml
+C:\Users\Praveen\source\repos\CellCounter_New\CellCounter_New\obj\Debug\CellCounter_New.frmConfig.resources
+C:\Users\Praveen\source\repos\CellCounter_New\CellCounter_New\obj\Debug\CellCounter_New.csproj.CopyComplete
